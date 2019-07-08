@@ -29,11 +29,11 @@
         app:layout_constraintBottom_toBottomOf="parent"/>
 
     <TextView
-        android:id="@+id/condition"
+        android:id="@+id/coord"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="48dp"
-        android:text="condition"
+        android:text="coord"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="@id/pressure_text"
         app:layout_goneMarginBottom="8dp"

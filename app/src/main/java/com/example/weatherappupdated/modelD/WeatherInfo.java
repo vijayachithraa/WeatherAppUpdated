@@ -31,6 +31,8 @@ public class WeatherInfo {
     @SerializedName("cod")
     private Integer cod;
 
+
+
     public Coord getCoord() {
         return coord;
     }

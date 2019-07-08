@@ -2,7 +2,7 @@ package com.example.weatherappupdated.modelD;
 
 import com.google.gson.annotations.SerializedName;
 
-class Main {
+  public  class Main {
     @SerializedName("temp")
     private Double temp;
     @SerializedName("pressure")
